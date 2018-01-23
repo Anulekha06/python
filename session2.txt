@@ -1,0 +1,10 @@
+addition
+multiplication
+substraction
+division
+module
+string operation
+if statements
+if-else statements
+random
+snake and ladder
